@@ -1,0 +1,33 @@
+/* Vamos a ponerle un orden */
+
+/*Primero los elementos*/
+img{
+    height: 200px;
+    width: 200px;
+}
+
+/*Luego las clases*/
+.color-title{
+    font-weight: normal;
+}
+
+/*Luego los ID*/
+#red{
+    color: red;
+}
+
+#blue{
+    color: blue;
+}
+
+#orange{
+    color: orange;
+}
+
+#green{
+    color: green;
+}
+
+#yellow{
+    color: yellow;
+}
