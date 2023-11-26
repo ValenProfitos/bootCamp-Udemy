@@ -34,7 +34,7 @@ Capstones are projects where the student puts into practice what they learned in
   - [Motivational Meme](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Motivation%20Meme%20Project)
 
 - Capstone projects
-  - [Online Resume (folders with code)](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20proyects/online-resume) | [My Resume (actual running page)](https://valenprofitos.github.io/my-resume/)
+  - [Online Resume (folders with code)](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20projects/online-resume) | [My Resume (actual running page)](https://valenprofitos.github.io/my-resume/)
 
 <hr/>
 
