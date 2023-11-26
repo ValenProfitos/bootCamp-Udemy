@@ -15,6 +15,25 @@ All folders other than Capstone are Challenges and Projects where the solutions 
 I try to do each Challenge and project only using the image of reference and nothing else).
 Capstones are projects where the student puts into practice what they learned in the different sections, these have no solutions and no help videos.
 
+- HTML
+  - [Anchor Elements](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/3.2%2BAnchor%2BElements/3.2%20Anchor%20Elements)
+  - [Image Elements](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/3.3%2BImage%2BElements/3.3%20Image%20Elements)
+  - [Birthday Invite Proyect](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/3.4%2BBirthday%2BInvite%2BProject/3.4%20Birthday%20Invite%20Project)
+  
+- Multi-Page Websites
+  - [File Paths](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/4.0%2BFile%2BPaths/4.0%20File%20Paths)
+  - [Webpages](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/4.1%2BWebpages/4.1%20Webpages)
+  - [HTML Porfolio Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/4.3%20HTML%20Porfolio%20Project)
+
+- CSS
+  - [Adding CSS](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/5.1%2BAdding%2BCSS/5.1.%20Adding%20CSS)
+  - [CSS Selectors](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/5.3%2BCSS%2BSelectors/5.3%20CSS%20Selectors)
+  - [Color Vocab Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/5.4%2BColor%2BVocab%2BProject/5.4%20Color%20Vocab%20Project)
+
+- Capstone projects
+  - [Online Resume (folders with code)](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20proyects/online-resume) | [My Resume (actual running page)](https://valenprofitos.github.io/my-resume/)
+
+
 <hr/>
 
 <h2>Español</h2>
