@@ -30,10 +30,11 @@ Capstones are projects where the student puts into practice what they learned in
   - [CSS Selectors](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/5.3%2BCSS%2BSelectors/5.3%20CSS%20Selectors)
   - [Color Vocab Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/5.4%2BColor%2BVocab%2BProject/5.4%20Color%20Vocab%20Project)
   - [CSS Colors](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Colors)
+  - [CSS Box Model]()
+  - [Motivational Meme]()
 
 - Capstone projects
   - [Online Resume (folders with code)](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20proyects/online-resume) | [My Resume (actual running page)](https://valenprofitos.github.io/my-resume/)
-
 
 <hr/>
 
@@ -60,6 +61,9 @@ Los Capstones son proyectos donde el estudiante pone en práctica lo aprendido e
   - [Adding CSS](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/5.1%2BAdding%2BCSS/5.1.%20Adding%20CSS)
   - [CSS Selectors](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/5.3%2BCSS%2BSelectors/5.3%20CSS%20Selectors)
   - [Color Vocab Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/5.4%2BColor%2BVocab%2BProject/5.4%20Color%20Vocab%20Project)
+  - [CSS Colors](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Colors)
+  - [CSS Box Model]()
+  - [Motivational Meme]()
 
 - Capstone projects
   - [Online Resume (folders with code)](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20proyects/online-resume) | [My Resume (actual running page)](https://valenprofitos.github.io/my-resume/)
