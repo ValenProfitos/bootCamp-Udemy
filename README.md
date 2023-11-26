@@ -62,4 +62,4 @@ Los Capstones son proyectos donde el estudiante pone en práctica lo aprendido e
   - [Color Vocab Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/5.4%2BColor%2BVocab%2BProject/5.4%20Color%20Vocab%20Project)
 
 - Capstone projects
-  - [Online Resume (folders with code)](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20proyects/online-resume) | [My Resume (actual running page)](https://valenprofitos.github.io/my-resume/)
+  - [Online Resume (folders with code)](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20projects/online-resume) | [My Resume (actual running page)](https://valenprofitos.github.io/my-resume/)
