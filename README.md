@@ -33,7 +33,7 @@ Capstones are projects where the student puts into practice what they learned in
   - [CSS Box Model](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Box%20Model)
   - [Motivational Meme](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Motivation%20Meme%20Project)
   - [CSS Cascade](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Cascade)
-  - [Combining Selectors]()
+  - [Combining Selectors](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Combining%20Selectors)
 
 - Capstone projects
   - [Online Resume (folders with code)](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20projects/online-resume) | [My Resume (actual running page)](https://valenprofitos.github.io/my-resume/)
@@ -67,7 +67,7 @@ Los Capstones son proyectos donde el estudiante pone en práctica lo aprendido e
   - [CSS Box Model](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Box%20Model)
   - [Motivational Meme](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Motivation%20Meme%20Project)
   - [CSS Cascade](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Cascade)
-  - [Combining Selectors]()
+  - [Combining Selectors](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Combining%20Selectors)
 
 - Capstone projects
   - [Online Resume (folders with code)](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20projects/online-resume) | [My Resume (actual running page)](https://valenprofitos.github.io/my-resume/)
