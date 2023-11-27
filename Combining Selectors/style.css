@@ -1,0 +1,26 @@
+/* Write your code here: */
+
+/* GROUP */
+h1, h2{ /**/
+    color: blueviolet;
+}
+
+/* CHILD */
+.box > p{ /*Use classes whenever you can to avoid confution*/
+    color: firebrick;
+}
+
+/* DESCENDANT */
+.box li{ /*We use .box this time to practice the ancestor descendant combination*/
+    color: blue;
+}
+
+/* CHAINING */
+li.done{ 
+    color: seagreen; 
+}
+
+/*Combing Combiners*/
+ul  p.done { /*Angela prefers the ancestor descendant bc it easier to locate and we usually have many generations*/
+    font-size: 0.5rem;
+}
