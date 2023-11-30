@@ -16,7 +16,7 @@ All folders other than Capstone are Challenges and Projects where the solutions 
 I try to do each Challenge and project only using the image of reference and nothing else).
 Capstones are projects where the student puts into practice what they learned in the different sections, these have no solutions and no help videos.
 
--Front-End Web Development
+- Front-End Web Development
     - HTML
       - [Anchor Elements](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/3.2%2BAnchor%2BElements/3.2%20Anchor%20Elements)
       - [Image Elements](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/3.3%2BImage%2BElements/3.3%20Image%20Elements)
@@ -60,7 +60,7 @@ Todas las carpetas, excepto Capstone, son Desafíos y Proyectos donde existen la
 Intento realizar cada Desafio y proyecto únicamente usando la imagen de referencia y nada más).
 Los Capstones son proyectos donde el estudiante pone en práctica lo aprendido en las diferentes secciones, estos no tienen soluciones ni videos de ayuda.
 
--Front-End Web Development
+- Front-End Web Development
     - HTML
       - [Anchor Elements](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/3.2%2BAnchor%2BElements/3.2%20Anchor%20Elements)
       - [Image Elements](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/3.3%2BImage%2BElements/3.3%20Image%20Elements)
