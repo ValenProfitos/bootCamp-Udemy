@@ -44,7 +44,7 @@ Capstones are projects where the student puts into practice what they learned in
       - [Web Desing Agency Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Web%20Design%20Agency%20Project)
   
     - Flexbox
-      -[Display Flex]()
+      - [Display Flex](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Display%20Flex)
 
 - Capstone projects
   - [Online Resume (folders with code)](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20projects/online-resume) | [My Resume (actual running page)](https://valenprofitos.github.io/my-resume/)
@@ -88,7 +88,7 @@ Los Capstones son proyectos donde el estudiante pone en práctica lo aprendido e
       - [Web Desing Agency Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Web%20Design%20Agency%20Project)
   
     - Flexbox
-      -[Display Flex]()
+      - [Display Flex](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Display%20Flex)
   
 - Capstone projects
   - [Online Resume (folders with code)](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20projects/online-resume) | [My Resume (actual running page)](https://valenprofitos.github.io/my-resume/)
