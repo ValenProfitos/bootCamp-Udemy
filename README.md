@@ -40,6 +40,7 @@ Capstones are projects where the student puts into practice what they learned in
   - [CSS Display](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Display)
   - [CSS Float](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Float)
   - [Media Querie](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Media%20Query)
+  - [Web Desing Agency Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Web%20Design%20Agency%20Project)
 
 - Capstone projects
   - [Online Resume (folders with code)](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20projects/online-resume) | [My Resume (actual running page)](https://valenprofitos.github.io/my-resume/)
@@ -79,6 +80,7 @@ Los Capstones son proyectos donde el estudiante pone en práctica lo aprendido e
   - [CSS Display](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Display)
   - [CSS Float](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Float)
   - [Media Querie](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Media%20Query)
+  - [Web Desing Agency Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Web%20Design%20Agency%20Project)
 
 - Capstone projects
   - [Online Resume (folders with code)](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20projects/online-resume) | [My Resume (actual running page)](https://valenprofitos.github.io/my-resume/)
