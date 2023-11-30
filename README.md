@@ -3,7 +3,7 @@
 # The Complete 2023 Web Development Bootcamp
 
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/ValenProfitos/bootCamp-Udemy/main)
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/y/ValenProfitos/bootCamp-Udemy/main)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/ValenProfitos/bootCamp-Udemy/main)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ValenProfitos/bootCamp-Udemy)
 
 <h2>English</h2>
