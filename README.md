@@ -16,37 +16,39 @@ All folders other than Capstone are Challenges and Projects where the solutions 
 I try to do each Challenge and project only using the image of reference and nothing else).
 Capstones are projects where the student puts into practice what they learned in the different sections, these have no solutions and no help videos.
 
-- Front-End Web Development
-    - HTML
-      - [Anchor Elements](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/3.2%2BAnchor%2BElements/3.2%20Anchor%20Elements)
-      - [Image Elements](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/3.3%2BImage%2BElements/3.3%20Image%20Elements)
-      - [Birthday Invite Proyect](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/3.4%2BBirthday%2BInvite%2BProject/3.4%20Birthday%20Invite%20Project)
+- [Front-End Web Development](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend)
+    - [HTML](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/HTML)
+      - [Anchor Elements](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/HTML/Anchor%20Elements)
+      - [Image Elements](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/HTML/Image%20Elements)
+      - [Birthday Invite Proyect](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/HTML/Birthday%20Invite%20Project)
     
-    - Multi-Page Websites
-      - [File Paths](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/4.0%2BFile%2BPaths/4.0%20File%20Paths)
-      - [Webpages](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/4.1%2BWebpages/4.1%20Webpages)
-      - [HTML Porfolio Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/4.3%20HTML%20Porfolio%20Project)
+    - [Multi-Page Websites](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Multi-Page%20Websites)
+      - [File Paths](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Multi-Page%20Websites/File%20Paths)
+      - [Webpages](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Multi-Page%20Websites/Webpages)
+      - [HTML Porfolio Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Multi-Page%20Websites/HTML%20Porfolio%20Project)
   
-    - CSS
-      - [Adding CSS](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/5.1%2BAdding%2BCSS/5.1.%20Adding%20CSS)
-      - [CSS Selectors](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/5.3%2BCSS%2BSelectors/5.3%20CSS%20Selectors)
-      - [Color Vocab Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/5.4%2BColor%2BVocab%2BProject/5.4%20Color%20Vocab%20Project)
-      - [CSS Colors](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Colors)
-      - [CSS Box Model](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Box%20Model)
-      - [Motivational Meme](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Motivation%20Meme%20Project)
-      - [CSS Cascade](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Cascade)
-      - [Combining Selectors](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Combining%20Selectors)
-      - [CSS Positions](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Positioning)
-      - [CSS Flag Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Flag%20Project)
-      - [CSS Display](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Display)
-      - [CSS Float](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Float)
-      - [Media Querie](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Media%20Query)
-      - [Web Desing Agency Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Web%20Design%20Agency%20Project)
+    - [CSS](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS)
+      - [Adding CSS](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/Adding%20CSS)
+      - [CSS Selectors](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/CSS%20Selectors)
+      - [Color Vocab Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/Color%20Vocab%20Project)
+      - [CSS Colors](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/CSS%20Colors)
+      - [Font Properties](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/Font%20Properties)
+      - [CSS Box Model](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/CSS%20Box%20Model)
+      - [Motivational Meme](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/Motivation%20Meme%20Project)
+      - [CSS Cascade](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/CSS%20Cascade)
+      - [Combining Selectors](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/Combining%20Selectors)
+      - [CSS Positions](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/CSS%20Positioning)
+      - [CSS Flag Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/CSS%20Flag%20Project)
+      - [CSS Display](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/CSS%20Display)
+      - [CSS Float](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/CSS%20Float)
+      - [Media Querie](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/Media%20Query)
+      - [Web Desing Agency Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/Web%20Design%20Agency%20Project)
   
-    - Flexbox
-      - [Display Flex](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Display%20Flex)
-
-- Capstone projects
+    - [Flexbox](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Flexbox)
+      - [Display Flex](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Flexbox/Display%20Flex)
+      - [Flex Direction](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Flexbox/Flex%20Direction)
+  
+- [Capstone projects](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20projects)
   - [Online Resume (folders with code)](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20projects/online-resume) | [My Resume (actual running page)](https://valenprofitos.github.io/my-resume/)
 
 <hr/>
@@ -60,36 +62,37 @@ Todas las carpetas, excepto Capstone, son Desafíos y Proyectos donde existen la
 Intento realizar cada Desafio y proyecto únicamente usando la imagen de referencia y nada más).
 Los Capstones son proyectos donde el estudiante pone en práctica lo aprendido en las diferentes secciones, estos no tienen soluciones ni videos de ayuda.
 
-- Front-End Web Development
-    - HTML
-      - [Anchor Elements](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/3.2%2BAnchor%2BElements/3.2%20Anchor%20Elements)
-      - [Image Elements](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/3.3%2BImage%2BElements/3.3%20Image%20Elements)
-      - [Birthday Invite Proyect](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/3.4%2BBirthday%2BInvite%2BProject/3.4%20Birthday%20Invite%20Project)
+- [Front-End Web Development](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend)
+    - [HTML](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/HTML)
+      - [Anchor Elements](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/HTML/Anchor%20Elements)
+      - [Image Elements](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/HTML/Image%20Elements)
+      - [Birthday Invite Proyect](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/HTML/Birthday%20Invite%20Project)
     
-    - Multi-Page Websites
-      - [File Paths](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/4.0%2BFile%2BPaths/4.0%20File%20Paths)
-      - [Webpages](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/4.1%2BWebpages/4.1%20Webpages)
-      - [HTML Porfolio Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/4.3%20HTML%20Porfolio%20Project)
+    - [Multi-Page Websites](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Multi-Page%20Websites)
+      - [File Paths](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Multi-Page%20Websites/File%20Paths)
+      - [Webpages](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Multi-Page%20Websites/Webpages)
+      - [HTML Porfolio Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Multi-Page%20Websites/HTML%20Porfolio%20Project)
   
-    - CSS
-      - [Adding CSS](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/5.1%2BAdding%2BCSS/5.1.%20Adding%20CSS)
-      - [CSS Selectors](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/5.3%2BCSS%2BSelectors/5.3%20CSS%20Selectors)
-      - [Color Vocab Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/5.4%2BColor%2BVocab%2BProject/5.4%20Color%20Vocab%20Project)
-      - [CSS Colors](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Colors)
-      - [CSS Box Model](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Box%20Model)
-      - [Motivational Meme](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Motivation%20Meme%20Project)
-      - [CSS Cascade](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Cascade)
-      - [Combining Selectors](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Combining%20Selectors)
-      - [CSS Positions](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Positioning)
-      - [CSS Flag Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Flag%20Project)
-      - [CSS Display](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Display)
-      - [CSS Float](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/CSS%20Float)
-      - [Media Querie](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Media%20Query)
-      - [Web Desing Agency Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Web%20Design%20Agency%20Project)
+    - [CSS](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS)
+      - [Adding CSS](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/Adding%20CSS)
+      - [CSS Selectors](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/CSS%20Selectors)
+      - [Color Vocab Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/Color%20Vocab%20Project)
+      - [CSS Colors](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/CSS%20Colors)
+      - [Font Properties](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/Font%20Properties)
+      - [CSS Box Model](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/CSS%20Box%20Model)
+      - [Motivational Meme](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/Motivation%20Meme%20Project)
+      - [CSS Cascade](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/CSS%20Cascade)
+      - [Combining Selectors](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/Combining%20Selectors)
+      - [CSS Positions](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/CSS%20Positioning)
+      - [CSS Flag Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/CSS%20Flag%20Project)
+      - [CSS Display](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/CSS%20Display)
+      - [CSS Float](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/CSS%20Float)
+      - [Media Querie](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/Media%20Query)
+      - [Web Desing Agency Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/CSS/Web%20Design%20Agency%20Project)
   
-    - Flexbox
-      - [Display Flex](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Display%20Flex)
-      - [Flex Direction](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Flex%20Direction)
+    - [Flexbox](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Flexbox)
+      - [Display Flex](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Flexbox/Display%20Flex)
+      - [Flex Direction](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Flexbox/Flex%20Direction)
   
-- Capstone projects
+- [Capstone projects](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20projects)
   - [Online Resume (folders with code)](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20projects/online-resume) | [My Resume (actual running page)](https://valenprofitos.github.io/my-resume/)
