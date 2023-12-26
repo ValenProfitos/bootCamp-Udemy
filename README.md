@@ -48,9 +48,9 @@ Capstones are projects where the student puts into practice what they learned in
       - [Display Flex](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Flexbox/Display%20Flex)
       - [Flex Direction](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Flexbox/Flex%20Direction)
       - [Flexbox Pricing Table Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Flexbox/Flexbox%20Pricing%20Table%20Project)
-      
-    -[Grid](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Grid)
-      -[Display Grid](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Grid/Display%20Grid)
+
+    - [Grid](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Grid)
+      - [Display Grid](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Grid/Display%20Grid)
   
 - [Capstone projects](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20projects)
   - [Online Resume (folders with code)](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20projects/online-resume) | [My Resume (actual running page)](https://valenprofitos.github.io/my-resume/)
@@ -99,8 +99,8 @@ Los Capstones son proyectos donde el estudiante pone en práctica lo aprendido e
       - [Flex Direction](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Flexbox/Flex%20Direction)
       - [Flexbox Pricing Table Project](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Flexbox/Flexbox%20Pricing%20Table%20Project)
     
-    -[Grid](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Grid)
-      -[Display Grid](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Grid/Display%20Grid)
+    - [Grid](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Grid)
+      - [Display Grid](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/Frontend/Grid/Display%20Grid)
   
 - [Capstone projects](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20projects)
   - [Online Resume (folders with code)](https://github.com/ValenProfitos/bootCamp-Udemy/tree/main/capstone%20projects/online-resume) | [My Resume (actual running page)](https://valenprofitos.github.io/my-resume/)
